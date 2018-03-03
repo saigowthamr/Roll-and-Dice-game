@@ -1,8 +1,12 @@
-# roll
+# Roll and Dice game using Vue js
 
 > A Vue.js project
 
-## Build Setup
+
+![Preview](https://github.com/saigowthamr/Roll-and-Dice-game/blob/master/images/Screen%20Shot%202018-03-03%20at%2012.31.14%20PM.png)
+
+
+#
 
 ``` bash
 # install dependencies
@@ -15,4 +19,4 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
